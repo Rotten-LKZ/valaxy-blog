@@ -9,11 +9,11 @@ tags:
   - LaTeX
 ---
 
-:::zh
+::: zh-CN
 `LaTeX` 是个好东西，但是语法太难记了。这篇文章仅为了记录下 `LaTeX` 操作。
 :::
 
-:::en
+::: en
 `LateX` is a good thing, but the grammar is too difficult to remember. This article is only for recording `LateX` operations.
 :::
 
