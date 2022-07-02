@@ -2,6 +2,7 @@
 title: 毕业三两事
 date: 2022-07-02 21:19:14
 categories: 杂谈
+cover: https://cdn.rotcool.me/2022/07/02/mata-ashita.png
 tags:
   - Graduation
   - Emotion
@@ -9,7 +10,7 @@ tags:
   - 中文
 ---
 
-::: zh-Cn
+::: zh-CN
 有太多太多的话想说，有关于毕业……
 
 我不太明白在不同国家毕业意味着什么，但是我知道，在我的国家，至少对于我来说，它是一个快乐但是伤感、轻松但是充满遗憾的时刻。
