@@ -92,7 +92,7 @@ const config: UserConfig<ThemeUserConfig> = {
     pages: [
       {
         name: '我的小伙伴们',
-        url: '/links/',
+        url: '/links',
         icon: 'i-ri-genderless-line',
         color: 'dodgerblue',
       },
