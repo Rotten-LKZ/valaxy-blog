@@ -5,6 +5,8 @@ categories: 杂谈
 tags:
   - 杂谈
   - Blog
+  - Valaxy
+  - YunYouJun
 top: 1
 ---
 
@@ -14,7 +16,7 @@ top: 1
 
 ## 个人配置
 
-由于 [YunYouJun(云游君)](https://github.com/YunYouJun) 比较忙~~*（咕？）*~~，一直没有推出 `create-valaxy-theme` 以便开发者创建自己的主题，所以我就先用上 `valaxy-theme-yun` 这个主题。样式跟 [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) 几乎保持一样。
+由于 [YunYouJun(云游君)](https://github.com/YunYouJun) 比较忙*（咕？）*，一直没有推出 `create-valaxy-theme` 以便开发者创建自己的主题，所以我就先用上 `valaxy-theme-yun` 这个主题。样式跟 [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) 几乎保持一样。
 
 除了基础的个人配置，我还更改了背景图片：
 
@@ -36,3 +38,51 @@ top: 1
 然后自己还写了一个后台管理静态博客（其实用上了数据库，不知道还能不能算是静态博客），所以现在写博客体验就很爽啦！！！以后会专门写文章介绍一下我这个后台管理的具体实现以及功能使用。
 
 以上，希望你在我博客中逛得愉快！*（只不过我挺水的）*
+
+## 样式测试
+
+### KaTeX
+
+对于一元二次方程 $ax^2 + bx + c = 0 (a \neq 0)$，它的求根公式为：
+
+$x_1,x_2=\frac{-b\pm\sqrt{(b^2-4ac)}}{2a}$
+
+*当然，也可以排版小学数学题：*
+
+$$
+\begin{align*}
+3\times4 + 7\times4 &= (3+4)\times4\\
+  &=7\times4\\
+  &=40
+\end{align*}
+$$
+
+### 标题
+#### 四级标题
+##### 五级标题
+
+*斜体* **粗体** <u>下划线</u> ~删除线~
+
+1. 有序
+2. 列表
+
+- 无序
+- 列表
+
+```javascript
+console.log("代码块") //;
+```
+
+> 引用
+> 多一点行
+
+[链接](https://rotcool.me/posts/about-this-blog)
+
+| 表格 | $\bar{a}$ | $\acute{a}$ | $\check{a}$ | $\grave{a}$ |
+| :-: | :- | -: | - | - |
+| null | 左 | 右 | abracadabra | For Test |
+| undefined | 左 | 右 | content | UseLess |
+
+图片
+
+![图片示例](https://cdn.rotcool.me/2022/07/02/starry-2.jpg)
