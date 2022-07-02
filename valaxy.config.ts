@@ -19,6 +19,12 @@ const config: UserConfig<ThemeUserConfig> = {
       message: 'Think more.',
     },
   },
+  comment: {
+    waline: {
+      enable: true,
+      serverURL: 'https://waline.rotcool.me/',
+    }
+  },
   description: '跌跌撞撞的人生才是人生',
   social: [
     {
