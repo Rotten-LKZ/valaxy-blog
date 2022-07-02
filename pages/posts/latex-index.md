@@ -19,8 +19,8 @@ tags:
 
 | Result | LaTeX |
 | :-: | :-: |
-| $\frac{x+1}{2}$ | \frac{x+1}{2} |
-| $\pm\mp$ | \pm\mp |
-| $\cdot\div\times$ | \cdot\div\times |
+| $\frac{x+1}{2}$ | `\frac{x+1}{2}` |
+| $\pm\mp$ | `\pm\mp` |
+| $\cdot\div\times$ | `\cdot\div\times` |
 
 *To be continued...*
