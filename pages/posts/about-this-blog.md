@@ -2,6 +2,7 @@
 title: 关于此博客
 date: 2022-07-02 17:41:49
 categories: 杂谈
+cover: https://cdn.rotcool.me/2022/07/02/vanishing-figure.png
 tags:
   - 杂谈
   - Blog
