@@ -35,6 +35,9 @@ jobs:
       - name: GA
         run: node ./ga.js
 
+      - name: Spider
+        run: node ./spider.js
+
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
