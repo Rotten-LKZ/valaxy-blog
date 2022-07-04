@@ -26,17 +26,11 @@ jobs:
       - name: 📦 Install Dependencies
         run: npm i
 
-      - name: Fix Bugs
-        run: cp -rf valaxy_dist/* node_modules/valaxy/dist/
-
       - name: 🌌 Build Valaxy Blog
         run: npm run build
       
       - name: GA
         run: node ./ga.js
-
-      - name: Spider
-        run: node ./spider.js
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
