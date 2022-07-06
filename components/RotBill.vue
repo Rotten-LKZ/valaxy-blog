@@ -106,6 +106,7 @@ function calcExpenseSum() {
     button {
       padding: 4px 8px;
       border: 1px solid rgba($color: #acacac, $alpha: 0.7);
+      border-bottom: 0;
     }
 
     .rot-bill-btns-selected {
