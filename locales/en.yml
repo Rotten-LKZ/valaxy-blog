@@ -1,0 +1,14 @@
+bill:
+  income: Income
+  expenditure: Expenditure
+  surplus: Surplus
+  serial_number: No.
+  sponse:
+    sponsers_list: Sponsers List
+    sponsers: Sponsers
+    sum: Sum
+  expense:
+    expense_list: Expenditure List
+    time: Time
+    item: Expenditure item
+    sum: Sum

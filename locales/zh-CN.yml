@@ -1,0 +1,14 @@
+bill:
+  income: 收入
+  expenditure: 支出
+  surplus: 盈余
+  serial_number: 序号
+  sponse:
+    sponsers_list: 赞助列表
+    sponsers: 赞助者
+    sum: 金额
+  expense:
+    expense_list: 支出列表
+    time: 时间
+    item: 支出项
+    sum: 金额

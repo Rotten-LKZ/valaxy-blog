@@ -99,8 +99,20 @@ const config: UserConfig<ThemeUserConfig> = {
       {
         name: '我的小伙伴们',
         url: '/links',
-        icon: 'i-ri-genderless-line',
+        icon: 'i-ri-links-line',
         color: 'dodgerblue',
+      },
+      {
+        name: '我的小账单',
+        url: '/bill',
+        icon: 'i-ri-money-cny-circle-line',
+        color: '#FFD700',
+      },
+      {
+        name: '我的小项目',
+        url: '/projects',
+        icon: 'i-ri-open-source-line',
+        color: '#FFD700',
       },
     ],
 
@@ -142,13 +154,5 @@ const config: UserConfig<ThemeUserConfig> = {
     ]
   }
 }
-
-/**
- * add your icon to safelist
- * if your theme is not yun, so you can add it by yourself
- */
-config.themeConfig?.pages?.forEach((item) => {
-  config.unocss?.safelist?.push(item?.icon)
-})
 
 export default config

@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "valaxy": "^0.7.2",
-    "valaxy-theme-yun": "0.7.2"
+    "valaxy-theme-yun": "^0.7.2"
   }
 }

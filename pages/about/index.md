@@ -1,5 +1,6 @@
 ---
 title: 关于我
+nav: false
 ---
 
 *为了偷懒，部分从我 GitHub 上复制过来的：<https://github.com/Rotten-LKZ>*
