@@ -51,6 +51,7 @@ function calcExpenseSum() {
     </div>
     <RotSponsers :sponsers="sponsers" v-if="choose === 'SPONSE'" />
     <RotExpense :expense-items="expense" v-if="choose === 'EXPENSE'" />
+    <YunSponsor style="margin-top: 50px" />
   </div>
 </template>
 
