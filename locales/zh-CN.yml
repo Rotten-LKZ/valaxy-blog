@@ -12,3 +12,8 @@ bill:
     time: 时间
     item: 支出项
     sum: 金额
+projects:
+  total: 暂无项目 | 共计 1 个项目 | 共计 {count} 个项目
+  desc: 描述
+  example_site: 示例站点
+  intro_site: 介绍站点

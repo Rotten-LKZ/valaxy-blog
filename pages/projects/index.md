@@ -6,4 +6,10 @@ toc: false
 nav: false
 ---
 
-<RotProjects />
+::: en
+<RotProjects lang="en" />
+:::
+
+::: zh-CN
+<RotProjects lang="zh" />
+:::

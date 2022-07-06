@@ -112,7 +112,7 @@ const config: UserConfig<ThemeUserConfig> = {
         name: '我的小项目',
         url: '/projects',
         icon: 'i-ri-open-source-line',
-        color: '#FFD700',
+        color: '#3BC9DB',
       },
     ],
 
