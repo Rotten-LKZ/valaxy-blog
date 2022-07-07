@@ -52,6 +52,12 @@ const config: UserConfig<ThemeUserConfig> = {
       color: '#E6162D',
     },
     {
+      name: 'Netease Cloud Music',
+      link: 'https://music.163.com/#/user/home?id=634683704',
+      icon: 'i-ri-netease-cloud-music-line',
+      color: '#C20C0C',
+    },
+    {
       name: 'BiliBili',
       link: 'https://space.bilibili.com/290238250',
       icon: 'i-ri-bilibili-line',
@@ -62,6 +68,18 @@ const config: UserConfig<ThemeUserConfig> = {
       link: 'https://twitter.com/LKZRotCool',
       icon: 'i-ri-twitter-line',
       color: '#1da1f2',
+    },
+    {
+      name: 'Telegram',
+      link: 'https://t.me/rotcool',
+      icon: 'i-ri-telegram-line',
+      color: '#0088CC',
+    },
+    {
+      name: 'Discord',
+      link: 'https://discord.gg/2Dh6DuJeRG',
+      icon: 'i-ri-discord-line',
+      color: '#7289DA',
     },
     {
       name: 'E-Mail',
