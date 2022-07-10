@@ -1,6 +1,6 @@
 ---
 title: 毕业三两事
-date: 2022-07-02 21:19:14
+date: 2022-07-02T21:19:14.000Z
 categories: 杂谈
 cover: https://cdn.rotcool.me/2022/07/02/mata-ashita.png
 tags:
@@ -8,12 +8,13 @@ tags:
   - Emotion
   - English
   - 中文
+updated: '2022-07-10T14:21:05.816Z'
 ---
 
 ::: zh-CN
 有太多太多的话想说，有关于毕业……
 
-我不太明白在不同国家毕业意味着什么，但是我知道，在我的国家，至少对于我来说，它是一个快乐但是伤感、轻松但是充满遗憾的时刻。
+终于轮到我毕业了。我不太明白在不同国家毕业意味着什么，但是我知道，在我的国家，至少对于我来说，它是一个快乐但是伤感、轻松但是充满遗憾的时刻。
 
 我们开心放松是因为我们迎来一个没有同伴和学习压力的长假期。我们伤感、遗憾因为我们必须得跟对方道别，不管是不是朋友或是仇人。
 
@@ -27,7 +28,7 @@ tags:
 ::: en
 There are a lot of words I wanna say, about graduation.
 
-I don't very understand what graduation means in different countries, but I know, in my country, or just for me, it is a happy but sentimental, relaxed but regrettable moment.
+It's finally my turn to graduate. I don't very understand what graduation means in different countries, but I know, in my country, or just for me, it is a happy but sentimental, relaxed but regrettable moment.
 
 We are happy and relaxed because we have a long-term holiday without the pressure from study and peers. We are sentimental and regrettable because we need to say goodbye to each other, whether we are good friends or enemies.
 
