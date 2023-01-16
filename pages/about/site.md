@@ -40,7 +40,7 @@ In fact, I have built a blog before with a dynamic blog framework WordPress, but
 :::
 
 :::en
-Because [YunYouJun](https://github.com/YunYouJun) is very busy, ~~'create-valaxy-theme' has not been developed for developers to create their own theme~ *(now available)*, So I'm using the theme `valaxy-theme-yun` at first. The styles of the theme is almost the same as [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun).
+Because [YunYouJun](https://github.com/YunYouJun) is very busy, ~~'create-valaxy-theme' has not been developed for developers to create their own theme~~ *(now available)*, So I'm using the theme `valaxy-theme-yun` at first. The styles of the theme is almost the same as [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun).
 
 Except for basic configurations, I also changed the background images:
 
