@@ -1,0 +1,19 @@
+bill:
+  income: 收入
+  expenditure: 支出
+  surplus: 盈余
+  serial_number: 序号
+  sponse:
+    sponsers_list: 赞助列表
+    sponsers: 赞助者
+    sum: 金额
+  expense:
+    expense_list: 支出列表
+    time: 时间
+    item: 支出项
+    sum: 金额
+projects:
+  total: 暂无项目 | 共计 1 个项目 | 共计 {count} 个项目
+  desc: 描述
+  example_site: 示例站点
+  intro_site: 介绍站点

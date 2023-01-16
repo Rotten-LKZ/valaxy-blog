@@ -1,0 +1,21 @@
+{
+  "name": "valaxy-blog",
+  "version": "0.12.2",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:ssg && npm run rss",
+    "build:spa": "valaxy build",
+    "build:ssg": "valaxy build --ssg",
+    "dev": "valaxy",
+    "rss": "valaxy rss",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "valaxy": "0.12.2",
+    "valaxy-addon-waline": "^0.0.7",
+    "valaxy-theme-yun": "0.12.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}

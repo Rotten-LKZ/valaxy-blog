@@ -1,0 +1,19 @@
+bill:
+  income: Income
+  expenditure: Expenditure
+  surplus: Surplus
+  serial_number: No.
+  sponse:
+    sponsers_list: Sponsers List
+    sponsers: Sponsers
+    sum: Sum
+  expense:
+    expense_list: Expenditure List
+    time: Time
+    item: Expenditure item
+    sum: Sum
+projects:
+  total: No project | 1 project in total | {count} projects in total
+  desc: Description
+  example_site: Example Site
+  intro_site: Intro Site
