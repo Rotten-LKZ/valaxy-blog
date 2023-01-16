@@ -161,6 +161,10 @@ export default defineConfig<ThemeConfig>({
 
     footer: {
       since: 2022,
+      // @ts-ignore
+      icon: {
+        name: '',
+      },
     },
 
     bg_image: {

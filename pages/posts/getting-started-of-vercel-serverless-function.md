@@ -67,9 +67,9 @@ vercel dev
 
 ![控制台提示](https://img.rotcool.me/i/2023/01/16/63c4b1cb81535.png)
 
-之后打开 <a href="http://localhost:3000/api/app?name=test" target="_blank" rel="noreferrer">http://localhost:3000/api/app?name=test</a> 就可以看到对应的输出 `Hello test` 了。
+之后打开 `http://localhost:3000/api/app?name=test` 就可以看到对应的输出 `Hello test` 了。
 
-文件名就是对应 <code><a href="http://localhost:3000/api/app?name=test" target="_blank" rel="noreferrer">http://localhost:3000/api/app?name=test</a></code> 中 `xxx` 的名字。
+文件名就是对应 `http://localhost:3000/api/app?name=test` 中 `xxx` 的名字。
 
 然后就可以点进去看看类型声明，进行相应的开发。注意一点的就是，它可能在 `vercel dev` 下面是现场编译 `.ts` 文件，所以访问速度可能相对于生产环境慢几秒，属于正常情况。
 

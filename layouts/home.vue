@@ -4,7 +4,8 @@ import Home from 'valaxy-theme-yun/layouts/home.vue'
 
 <template>
   <Home>
-    <template #footer>
+    <template #board>
+      
       <RainyunSupport />
     </template>
   </Home>
