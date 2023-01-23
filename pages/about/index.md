@@ -2,6 +2,10 @@
 title: 关于我
 ---
 
+## 随便说说 {lang="zh-CN"}
+
+## Casual Saying {lang="en"}
+
 :::en
 This is RotCool's small blog. The selection of blog articles is not limited to technical articles, but also various daily life records and so on... Of course, because I'm still a senior high school student for the time being, I don't have much time to work out my own theme, so I use [valaxy](https://github.com/YunYouJun/valaxy) made by [YunYouJun](https://github.com/YunYouJun) and theme [Yun](https://github.com/YunYouJun/valaxy/tree/main/packages/valaxy-theme-yun). All contact information is on the sidebar. Welcome to contact me! Then [here is](/about/site) about the development and introduction of this site. Those who are interested can have a look.
 :::
