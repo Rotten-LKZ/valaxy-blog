@@ -75,4 +75,4 @@ vercel dev
 
 ### 打包
 
-输入 `vercel -prod` 然后就会出来可以访问的链接。自己上 Vercel 找到本项目绑定自己的域名就能当 API 使用了！
+输入 `vercel --prod` 然后就会出来可以访问的链接。自己上 Vercel 找到本项目绑定自己的域名就能当 API 使用了！
