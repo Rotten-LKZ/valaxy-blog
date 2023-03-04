@@ -6,6 +6,11 @@ export interface Expense {
 
 export default [
   {
+    time: "2023-03-04 21:20",
+    desc: "轻量应用服务器 续费 年度",
+    sum: 96
+  },
+  {
     time: "2023-01-25 12:59",
     desc: "雨云服务器 KVM 标配版 续费 月度",
     sum: 17.6
