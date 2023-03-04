@@ -13,6 +13,12 @@ const safelist = [
 export default defineValaxyConfig<ThemeConfig>({
   theme: 'yun',
 
+  vite: {
+    ssgOptions: {
+      dirStyle: 'nested'
+    },
+  },
+
   themeConfig: {
     banner: {
       enable: true,
