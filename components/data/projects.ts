@@ -28,8 +28,8 @@ export default [
   {
     "name": "番剧管理器",
     "eng_name": "Bangumi Manager",
-    "desc": "一个用 Tauri 制作成的管理你 ACGN 作品的项目",
-    "eng_desc": "A project aims to manage your ACGN works made with Tauri.",
+    "desc": "管理 ACGN 作品的项目（Tauri demo）",
+    "eng_desc": "A project aims to manage your ACGN works (made with Tauri).",
     "github_url": "https://github.com/Rotten-LKZ/bangumi-manager"
   },
   {
