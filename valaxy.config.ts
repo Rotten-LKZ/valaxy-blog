@@ -1,28 +1,28 @@
 import { defineValaxyConfig } from 'valaxy'
 import { addonWaline } from 'valaxy-addon-waline'
-import type { ThemeConfig } from 'valaxy-theme-yun'
+import type { UserThemeConfig } from 'valaxy-theme-yun'
 
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
+  'i-ri-links-line',
 ]
 
 /**
  * User Config
  */
-export default defineValaxyConfig<ThemeConfig>({
-  theme: 'yun',
+export default defineValaxyConfig<UserThemeConfig>({
+  // site config see site.config.ts
 
-  vite: {
-    ssgOptions: {
-      dirStyle: 'nested'
-    },
-  },
+  theme: 'yun',
 
   themeConfig: {
     banner: {
       enable: true,
       title: '烂裤子の小站',
+      cloud: {
+        enable: true,
+      },
     },
 
     pages: [
